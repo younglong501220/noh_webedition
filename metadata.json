@@ -1,0 +1,6 @@
+{
+  "name": "仁王：落命之刻 (Nioh - Web Edition)",
+  "description": "經典硬派動作遊戲《仁王》致敬作。忠實重現上中下三段架勢切換、殘心回收精力、常世消除與氣絕近身刺擊處決。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
